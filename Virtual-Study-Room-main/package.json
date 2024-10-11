@@ -1,7 +1,7 @@
 {
   "name": "socket-project",
   "version": "1.0.0",
-  "description": "",
+  "description": "Virtual Study Room is a fully functional ed-tech platform that enables students to collaborate remotely through video or voice calls, discuss their doubts using collaborative whiteboards, share resources, and engage in group study sessions to enhance focus and productivity.",
   "main": "server.js",
   "scripts": {
     "start": "node server.js",
@@ -11,7 +11,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.21.1",
     "moment": "^2.27.0",
     "nodemon": "^2.0.4",
     "socket.io": "^2.3.0",
